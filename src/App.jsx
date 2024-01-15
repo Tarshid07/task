@@ -7,6 +7,12 @@ const App = () => {
     "Orange",
     "Grapes",
     "Mango",
+    "Apricot",
+"Cherry",
+"Pear",
+"Raspberry",
+"Cranberry"
+    
   ]);
   const [inputValue, setInputValue] = useState("");
   const [selectedItems, setSelectedItems] = useState([]);
